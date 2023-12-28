@@ -1,31 +1,100 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: betterwithagency # Your GitHub organization or username, where this repository lives
+repo: status-page # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: bw/a
+    url: https://bw.agency
+  - name: bw/a Smart
+    url: https://smart.betterwith.agency
+  - name: Esra BULUT
+    url: https://esrabulut.com.tr
+  - name: Samsun Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifi
+    url: https://samsunekk.com
+  - name: Evren Mühendislik
+    url: https://evrenmuh.com.tr
+  - name: Shine at Date
+    url: https://shineatdate.com
 
-status-website:
+status-website: 
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.betterwith.agency
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: bw/a Status
+  introTitle: "**bw/a Status** web sitenizin barındırıldığı sunucuya erişim problemlerini otomatik olarak raporlar."
+  introMessage: bw/a'den hizmet aldığınız sürece web sitenizin %99,95 yayında kalacağına dair söz veriyoruz. Aşağıdaki gerçek zamanlı veriler 5 dakikada bir güncellenir.
   navbar:
-    - title: Status
+    - title: Durum
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: bw/a
+      href: https://bw.agency
+    - title: bw/a Support
+      href: https://support.bw.agency
+
+i18n:
+  footer: Samsun'da sevgi ile yapıldı.
+  activeIncidents: Aktif Eylemler
+  allSystemsOperational: Tüm sistemler çalışır durumda
+  incidentReport: "#$NUMBER numaralı eylem raporu →"
+  activeIncidentSummary: $DATE tarihinde $POSTS gönderi açıldı
+  incidentTitle: Eylem $NUMBER Ayrıntıları
+  incidentDetails: Eylem Ayrıntıları
+  incidentFixed: Çözüldü
+  incidentOngoing: Devam Ediyor
+  incidentOpenedAt: Açılış
+  incidentClosedAt: Kapanış
+  incidentViewOnGitHub: GitHub'da Görüntüleyin ve Abone Olun
+  incidentCommentSummary: $AUTHOR tarafından $DATE tarihinde yayınlandı
+  incidentBack: ← Tüm eylemlere geri dön
+  pastIncidents: Geçmiş Eylemler
+  pastIncidentsResolved: $POSTS gönderilerle $MINUTES dakika içinde çözüldü
+  liveStatus: Canlı Durum
+  overallUptime: "Genel çalışma süresi: $UPTIME"
+  overallUptimeTitle: Genel çalışma süresi
+  averageResponseTime: "Ortalama yanıt süresi: $TIMEms"
+  averageResponseTimeTitle: Ortalama yanıt
+  sevelDayResponseTime: 7 günlük yanıt süresi
+  responseTimeMs: Yanıt süresi (ms)
+  up: Yayında
+  down: Yayında Değil
+  degraded: Bozuk
+  ms: ms
+  loading: Yükleniyor
+  navGitHub: GitHub
+  rateLimitExceededTitle: Hız limiti aşıldı
+  rateLimitExceededIntro: YBir saat içinde yapabileceğiniz istek sayısını aştınız, dolayısıyla bu web sitesine tekrar erişmeden önce beklemeniz gerekecek. Alternatif olarak, bu web sitesini kullanmaya devam etmek için GitHub Kişisel Erişim Simgesini ekleyebilirsiniz.
+  rateLimitExceededWhatDoesErrorMean: Bu hata ne anlama geliyor?
+  rateLimitExceededErrorMeaning: Bu web sitesi, web sitelerimizin durumu hakkındaki gerçek zamanlı verilere erişmek için GitHub API'sini kullanır. Varsayılan olarak GitHub, her IP adresine, sizin tükettiğiniz saatte 60 isteğe izin verir.
+  rateLimitExceededErrorHowCanFix: Bunu nasıl düzeltebilirim?
+  rateLimitExceededErrorFix: Bir saat daha bekleyebilirsiniz ve IP adresinizin sınırı geri yüklenecektir. Alternatif olarak, saatte ek 5.000 istek sağlayan GitHub Kişisel Erişim Simgenizi ekleyebilirsiniz.
+  rateLimitExceededGeneratePAT: Kişisel Erişim Belirteci nasıl oluşturulur öğren
+  rateLimitExceededHasSet: Kişisel erişim belirteci kümeniz var.
+  rateLimitExceededRemoveToken: Belirteci kaldır
+  rateLimitExceededGitHubPAT: GitHub Kişisel Erişim Belirteci
+  rateLimitExceededCopyPastePAT: Belirtecinizi kopyalayıp yapıştırın
+  rateLimitExceededSaveToken: Belirteci kaydet
+  errorTitle: Bir hata oluştu
+  errorIntro: En son durum ayrıntıları alınmaya çalışılırken bir hata oluştu.
+  errorText: Birkaç dakika sonra tekrar deneyebilirsiniz.
+  errorHome: Anasayfaya dön
+  pastScheduledMaintenance: Geçmiş Planlanmış Bakımlar
+  scheduledMaintenance: Planlanmış Bakım
+  scheduledMaintenanceSummaryStarted: $DATE tarihinde $DURATION dakika süreyle başladı
+  scheduledMaintenanceSummaryStarts: $DURATION dakika boyunca $DATE tarihinde başlayacak
+  startedAt: Başlama saati
+  startsAt: Başlangıç saati
+  duration: Süre
+  durationMin: $DURATION dakika
+  incidentCompleted: Tamamlandı
+  incidentScheduled: Planlandı
+  duration24H: 24s
+  duration7D: 7g
+  duration30D: 30g
+  duration1Y: 1y
+  durationAll: tümü
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
