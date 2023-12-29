@@ -5,6 +5,8 @@ repo: status-page # The name of this repository
 sites:
   - name: bw/a
     url: https://bw.agency
+  - name: bw/a Support
+    url: https://support.bw.agency
   - name: bw/a Smart
     url: https://smart.betterwith.agency
   - name: Esra BULUT
