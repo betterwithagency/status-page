@@ -22,36 +22,40 @@
     "url": "https://support.bw.agency",
     "icon": "https://icons.duckduckgo.com/ip3/support.bw.agency.ico",
     "slug": "bw-a-support",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 4882,
     "timeDay": 1105,
     "timeWeek": 4882,
     "timeMonth": 4882,
     "timeYear": 4882,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 2
+    }
   },
   {
     "name": "bw/a Smart",
     "url": "https://smart.betterwith.agency",
     "icon": "https://icons.duckduckgo.com/ip3/smart.betterwith.agency.ico",
     "slug": "bw-a-smart",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1873,
     "timeDay": 983,
     "timeWeek": 1873,
     "timeMonth": 1873,
     "timeYear": 1873,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 1
+    }
   },
   {
     "name": "Esra BULUT",
