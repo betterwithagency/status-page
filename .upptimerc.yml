@@ -26,7 +26,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.betterwith.agency
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/betterwithagency/status-page/a6d1f5baf2ac77786c8009c5c71e74d2586e3091/assets/status.svg
   name: bw/a Status
   introTitle: "**bw/a Status** web sitenizin barındırıldığı sunucuya erişim problemlerini otomatik olarak raporlar."
   introMessage: bw/a'den hizmet aldığınız sürece web sitenizin %99,95 yayında kalacağına dair söz veriyoruz. Aşağıdaki gerçek zamanlı veriler 5 dakikada bir güncellenir.
