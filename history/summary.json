@@ -58,19 +58,19 @@
     "url": "https://esrabulut.com.tr",
     "icon": "https://icons.duckduckgo.com/ip3/esrabulut.com.tr.ico",
     "slug": "esra-bulut",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1909,
-    "timeDay": 1062,
-    "timeWeek": 1518,
-    "timeMonth": 1909,
-    "timeYear": 1909,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "94.29%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 1858,
+    "timeDay": 1022,
+    "timeWeek": 1460,
+    "timeMonth": 1858,
+    "timeYear": 1858,
     "dailyMinutesDown": {
-      "2024-01-10": 0
+      "2024-01-10": 82
     }
   },
   {
