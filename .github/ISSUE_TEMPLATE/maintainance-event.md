@@ -13,5 +13,5 @@ end: 2021-08-24T14:00:00.220Z
 expectedDown: bw-a
 -->
 
-**Additional context**
+**Ek Açıklama**
 Bu bakım kim/ne/ne zaman/nerede/neden yapılıyor
