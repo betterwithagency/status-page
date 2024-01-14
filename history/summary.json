@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/esrabulut.com.tr.ico",
     "slug": "esra-bulut",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 2198,
     "timeDay": 804,
     "timeWeek": 2320,
@@ -132,17 +132,19 @@
     "url": "https://wiyanawandafest.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiyanawandafest.com.ico",
     "slug": "wiyanawanda-fest-bodrum-non-bw-a",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1198,
-    "timeDay": 2907,
-    "timeWeek": 969,
-    "timeMonth": 1198,
-    "timeYear": 1198,
-    "dailyMinutesDown": {}
+    "time": 1391,
+    "timeDay": 3985,
+    "timeWeek": 1481,
+    "timeMonth": 1391,
+    "timeYear": 1391,
+    "dailyMinutesDown": {
+      "2024-01-14": 0
+    }
   }
 ]
