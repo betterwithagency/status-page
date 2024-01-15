@@ -22,10 +22,10 @@
     "url": "https://support.bw.agency",
     "icon": "https://icons.duckduckgo.com/ip3/support.bw.agency.ico",
     "slug": "bw-a-support",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3325,
@@ -33,7 +33,9 @@
     "timeWeek": 1093,
     "timeMonth": 3325,
     "timeYear": 3325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-15": 1
+    }
   },
   {
     "name": "bw/a Smart",
@@ -133,11 +135,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiyanawandafest.com.ico",
     "slug": "wiyanawanda-fest-bodrum-non-bw-a",
     "status": "down",
-    "uptime": "98.39%",
+    "uptime": "98.40%",
     "uptimeDay": "73.60%",
     "uptimeWeek": "96.23%",
-    "uptimeMonth": "98.39%",
-    "uptimeYear": "98.39%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.40%",
     "time": 1572,
     "timeDay": 5132,
     "timeWeek": 2040,
