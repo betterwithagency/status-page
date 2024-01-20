@@ -114,9 +114,9 @@
     "url": "https://shineatdate.com",
     "icon": "https://icons.duckduckgo.com/ip3/shineatdate.com.ico",
     "slug": "shine-at-date",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,7 +125,9 @@
     "timeWeek": 943,
     "timeMonth": 937,
     "timeYear": 937,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-20": 0
+    }
   },
   {
     "name": "Wiyanawanda Fest Bodrum (non-bw/a)",
@@ -133,18 +135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiyanawandafest.com.ico",
     "slug": "wiyanawanda-fest-bodrum-non-bw-a",
     "status": "down",
-    "uptime": "82.37%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "44.94%",
-    "uptimeMonth": "82.37%",
-    "uptimeYear": "82.37%",
+    "uptime": "82.21%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "44.36%",
+    "uptimeMonth": "82.21%",
+    "uptimeYear": "82.21%",
     "time": 2325,
     "timeDay": 3225,
     "timeWeek": 3897,
     "timeMonth": 2325,
     "timeYear": 2325,
     "dailyMinutesDown": {
-      "2024-01-20": 0,
+      "2024-01-20": 59,
       "2024-01-19": 659,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
