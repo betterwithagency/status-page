@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sakvinc.com.tr.ico",
     "slug": "sak-vinc",
     "status": "down",
-    "uptime": "7.23%",
-    "uptimeDay": "7.23%",
-    "uptimeWeek": "7.23%",
-    "uptimeMonth": "7.23%",
-    "uptimeYear": "7.23%",
+    "uptime": "5.38%",
+    "uptimeDay": "5.38%",
+    "uptimeWeek": "5.38%",
+    "uptimeMonth": "5.38%",
+    "uptimeYear": "5.38%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-24": 0
+      "2024-01-24": 1
     }
   },
   {
@@ -176,7 +176,7 @@
     "slug": "wiyanawanda-fest-bodrum-non-bw-a",
     "status": "down",
     "uptime": "70.00%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "0.03%",
     "uptimeWeek": "14.45%",
     "uptimeMonth": "70.00%",
     "uptimeYear": "70.00%",
