@@ -4,36 +4,40 @@
     "url": "https://bw.agency",
     "icon": "https://icons.duckduckgo.com/ip3/bw.agency.ico",
     "slug": "bw-a",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1268,
     "timeDay": 1162,
     "timeWeek": 1100,
     "timeMonth": 1285,
     "timeYear": 1268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-29": 10
+    }
   },
   {
     "name": "Yula",
     "url": "https://yulala.co",
     "icon": "https://icons.duckduckgo.com/ip3/yulala.co.ico",
     "slug": "yula",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "75.27%",
+    "uptimeDay": "75.27%",
+    "uptimeWeek": "75.27%",
+    "uptimeMonth": "75.27%",
+    "uptimeYear": "75.27%",
     "time": 345,
     "timeDay": 345,
     "timeWeek": 345,
     "timeMonth": 345,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-29": 8
+    }
   },
   {
     "name": "bw/a Support",
@@ -41,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.bw.agency.ico",
     "slug": "bw-a-support",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 3016,
     "timeDay": 1091,
     "timeWeek": 1096,
     "timeMonth": 3016,
     "timeYear": 3016,
     "dailyMinutesDown": {
-      "2024-01-29": 6
+      "2024-01-29": 19
     }
   },
   {
@@ -60,18 +64,19 @@
     "url": "https://smart.betterwith.agency",
     "icon": "https://icons.duckduckgo.com/ip3/smart.betterwith.agency.ico",
     "slug": "bw-a-smart",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 1338,
     "timeDay": 916,
     "timeWeek": 1029,
     "timeMonth": 1346,
     "timeYear": 1338,
     "dailyMinutesDown": {
+      "2024-01-29": 6,
       "2024-01-27": 17
     }
   },
@@ -119,7 +124,7 @@
     "url": "https://samsunekk.com",
     "icon": "https://icons.duckduckgo.com/ip3/samsunekk.com.ico",
     "slug": "samsun-esnaf-ve-sanatkarlar-kredi-ve-kefalet-kooperatifi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -149,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-29": 808,
+      "2024-01-29": 821,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
@@ -163,18 +168,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/evrenmuh.com.tr.ico",
     "slug": "evren-muehendislik",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1126,
     "timeDay": 1322,
     "timeWeek": 1277,
     "timeMonth": 1133,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2024-01-29": 3
+      "2024-01-29": 16
     }
   },
   {
@@ -201,18 +206,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shineatdate.com.ico",
     "slug": "shine-at-date",
     "status": "down",
-    "uptime": "93.81%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "93.55%",
-    "uptimeYear": "93.81%",
+    "uptime": "93.78%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "93.52%",
+    "uptimeYear": "93.78%",
     "time": 945,
     "timeDay": 807,
     "timeWeek": 945,
     "timeMonth": 939,
     "timeYear": 945,
     "dailyMinutesDown": {
-      "2024-01-29": 2,
+      "2024-01-29": 15,
       "2024-01-22": 677,
       "2024-01-21": 1440,
       "2024-01-20": 706
@@ -224,18 +229,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiyanawandafest.com.ico",
     "slug": "wiyanawanda-fest-bodrum",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.70%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 652,
     "timeDay": 684,
     "timeWeek": 652,
     "timeMonth": 652,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2024-01-29": 0
+      "2024-01-29": 13
     }
   }
 ]
