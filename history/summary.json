@@ -115,19 +115,19 @@
     "url": "https://flamingopsikoloji.com",
     "icon": "https://icons.duckduckgo.com/ip3/flamingopsikoloji.com.ico",
     "slug": "flamingo-psikoloji",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 9071,
-    "timeDay": 9643,
-    "timeWeek": 10590,
-    "timeMonth": 9071,
-    "timeYear": 9071,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 9193,
+    "timeDay": 11129,
+    "timeWeek": 11230,
+    "timeMonth": 9193,
+    "timeYear": 9193,
     "dailyMinutesDown": {
-      "2024-02-15": 0
+      "2024-02-15": 9
     }
   },
   {
@@ -165,7 +165,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-15": 1179,
+      "2024-02-15": 1189,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
