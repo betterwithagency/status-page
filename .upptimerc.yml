@@ -11,8 +11,6 @@ sites:
     url: https://support.bw.agency
   - name: bw/a Smart
     url: https://smart.betterwith.agency
-  - name: Aysu Elbi 
-    url: https://seans.aysuelbi.com
   - name: Emir Tarlan
     url: https://emirtarlan.com
   - name: Esra BULUT
@@ -29,6 +27,8 @@ sites:
     url: https://evrenmuh.com.tr
   - name: Tamer Şahinoğlu
     url: https://tamersahinoglu.com
+  - name: Reges Hotel
+    url: https://reges.com.tr
   - name: Samsun Çocuk Gelişimi
     url: https://samsuncocukgelisimi.com
   - name: Shine at Date
