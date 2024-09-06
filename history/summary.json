@@ -375,7 +375,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 1189,
+      "2024-09-06": 1198,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -702,19 +702,19 @@
     "url": "https://reges.com.tr",
     "icon": "https://icons.duckduckgo.com/ip3/reges.com.tr.ico",
     "slug": "reges-hotel",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "99.23%",
-    "time": 1816,
-    "timeDay": 2071,
-    "timeWeek": 2133,
-    "timeMonth": 1870,
-    "timeYear": 1816,
+    "status": "up",
+    "uptime": "99.22%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.22%",
+    "time": 1824,
+    "timeDay": 2138,
+    "timeWeek": 2138,
+    "timeMonth": 1878,
+    "timeYear": 1824,
     "dailyMinutesDown": {
-      "2024-09-06": 0,
+      "2024-09-06": 9,
       "2024-09-03": 43,
       "2024-09-02": 33,
       "2024-08-26": 379
@@ -770,7 +770,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 1189,
+      "2024-09-06": 1198,
       "2024-09-05": 1440,
       "2024-09-04": 695
     }
@@ -862,7 +862,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 1189,
+      "2024-09-06": 1198,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
