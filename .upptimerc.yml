@@ -49,6 +49,8 @@ sites:
     url: https://vizesamsun.com
   - name: Wiyanawanda Fest Bodrum
     url: https://wiyanawandafest.com
+  - name: Akıncı Yapı Yönetim
+    url: https://akinciyonetim.com
 
 status-website: 
   theme: dark
