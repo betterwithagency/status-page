@@ -1,7 +1,7 @@
 url: https://support.bw.agency
-status: up
-code: 200
-responseTime: 1701
-lastUpdated: 2024-11-05T23:09:13.684Z
+status: down
+code: 502
+responseTime: 4130
+lastUpdated: 2024-11-06T11:25:52.510Z
 startTime: 2023-12-29T15:01:33.137Z
 generator: Upptime <https://github.com/upptime/upptime>
