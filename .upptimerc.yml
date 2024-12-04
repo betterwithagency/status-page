@@ -51,6 +51,10 @@ sites:
     url: https://youpsikoloji.com
   - name: Zirve Psikoloji
     url: https://zirvepsikoloji.com
+  - name: Kırkangıç Concept
+    url: https://kirlangicconcept.com
+  - name: Betül Aksoy Psikoloji
+    url: https://betulaksoypsikoloji.com
   - name: Vize Samsun
     url: https://vizesamsun.com
   - name: No7 Training Studio
@@ -59,6 +63,8 @@ sites:
     url: https://wiyanawandafest.com
   - name: Akıncı Yapı Yönetim
     url: https://akinciyonetim.com
+  - name: Antalya Terapistim Ads
+    url: https://ads.antalyaterapistim.com
 
 status-website: 
   theme: dark
