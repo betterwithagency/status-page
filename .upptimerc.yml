@@ -61,6 +61,8 @@ sites:
     url: https://dorismarine.com
   - name: SamsunPsikolog.net
     url: https://samsunpsikolog.net
+  - name: SamsunPsikolog.org
+    url: https://samsunpsikolog.org
   - name: No7 Training Studio
     url: https://no7training.studio
   - name: Wiyanawanda Fest Bodrum
