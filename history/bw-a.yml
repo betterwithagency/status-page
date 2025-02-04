@@ -1,7 +1,7 @@
 url: https://bw.agency
-status: up
-code: 200
-responseTime: 1147
-lastUpdated: 2025-02-03T23:09:05.694Z
+status: down
+code: 503
+responseTime: 647
+lastUpdated: 2025-02-04T03:24:38.880Z
 startTime: 2023-12-28T20:51:05.184Z
 generator: Upptime <https://github.com/upptime/upptime>
