@@ -39,6 +39,8 @@ sites:
     url: https://velime.com
   - name: Samsun Çocuk Gelişimi
     url: https://samsuncocukgelisimi.com
+  - name: Ohana Psikoloji
+    url: https://ohanapsikoloji.com
   - name: Samsun Psikoterapi Merkezi
     url: https://samsunpsikoterapi.tr
   - name: Shine at Date
@@ -71,6 +73,8 @@ sites:
     url: https://akinciyonetim.com
   - name: Antalya Terapistim Ads
     url: https://ads.antalyaterapistim.com
+  - name: Mana Psikoloji Ads
+    url: https://ads.manapsikolog.com
 
 status-website: 
   theme: dark
