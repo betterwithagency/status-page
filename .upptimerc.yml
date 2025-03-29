@@ -35,6 +35,8 @@ sites:
     url: https://reges.com.tr
   - name: Reges Hotel Offers Portal
     url: https://offer.reges.com.tr
+  - name: DavetiyeGross
+    url: https://davetiyegross.com
   - name: Velime Davetiye
     url: https://velime.com
   - name: Samsun Çocuk Gelişimi
@@ -65,6 +67,8 @@ sites:
     url: https://samsunpsikolog.net
   - name: SamsunPsikolog.org
     url: https://samsunpsikolog.org
+  - name: Vento Yacht
+    url: https://ventoyacht.com/
   - name: No7 Training Studio
     url: https://no7training.studio
   - name: Wiyanawanda Fest Bodrum
