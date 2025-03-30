@@ -1,7 +1,7 @@
 url: https://samsunpsikoterapi.tr
-status: up
-code: 200
-responseTime: 2746
-lastUpdated: 2025-03-29T23:09:46.005Z
+status: down
+code: 503
+responseTime: 931
+lastUpdated: 2025-03-30T20:42:14.450Z
 startTime: 2024-09-04T12:25:26.626Z
 generator: Upptime <https://github.com/upptime/upptime>
