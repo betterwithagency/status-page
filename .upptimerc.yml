@@ -38,7 +38,13 @@ sites:
   - name: DavetiyeGross
     url: https://davetiyegross.com
   - name: Velime Davetiye
-    url: https://velime.com
+    url: https://velime.com  
+    - name: Toptan Davetiyeler
+    url: https://toptandavetiyeler.com.tr
+  - name: Düğün Davetiye
+    url: https://dugundavetiye.tr
+  - name: Davetiye Modelleri
+    url: https://davetiyemodelleri.tr
   - name: Samsun Çocuk Gelişimi
     url: https://samsuncocukgelisimi.com
   - name: Ohana Psikoloji
