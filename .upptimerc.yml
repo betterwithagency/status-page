@@ -19,8 +19,6 @@ sites:
     url: https://uzmanrandevu.com.tr
   - name: Flamingo Psikoloji
     url: https://flamingopsikoloji.com
-  - name: Mon Yoga
-    url: https://monyoga.co
   - name: Samsun Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifi
     url: https://samsunekk.com
   - name: SAK Vinç
@@ -63,8 +61,6 @@ sites:
     url: https://zirvepsikoloji.com
   - name: Kırkangıç Concept
     url: https://kirlangicconcept.com
-  - name: Betül Aksoy Psikoloji
-    url: https://betulaksoypsikoloji.com
   - name: Vize Samsun
     url: https://vizesamsun.com
   - name: Doris Marine
@@ -73,6 +69,8 @@ sites:
     url: https://samsunpsikolog.net
   - name: SamsunPsikolog.org
     url: https://samsunpsikolog.org
+  - name: SamsunPsikolog.org.tr
+    url: https://samsunpsikolog.org.tr
   - name: Vetro Yacht
     url: https://vetroyacht.com/
   - name: No7 Training Studio
