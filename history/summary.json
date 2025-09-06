@@ -52,8 +52,7 @@
       "2024-11-06": 16,
       "2024-10-23": 55,
       "2024-09-08": 523,
-      "2024-09-07": 1440,
-      "2024-09-06": 48
+      "2024-09-07": 1440
     }
   },
   {
@@ -268,9 +267,9 @@
     "slug": "emir-tarlan",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "98.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "98.82%",
     "time": 1333,
     "timeDay": 703,
@@ -278,7 +277,6 @@
     "timeMonth": 835,
     "timeYear": 1301,
     "dailyMinutesDown": {
-      "2025-09-05": 9,
       "2025-09-02": 35,
       "2025-08-31": 23,
       "2025-08-30": 18,
@@ -362,7 +360,8 @@
       "2025-01-14": 40,
       "2025-01-12": 19,
       "2025-01-06": 102,
-      "2025-01-05": 11
+      "2025-01-05": 11,
+      "2025-01-03": 18
     }
   },
   {
@@ -469,18 +468,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/uzmanrandevu.com.tr.ico",
     "slug": "uzman-randevu",
     "status": "down",
-    "uptime": "46.27%",
+    "uptime": "46.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.27%",
+    "uptimeYear": "46.26%",
     "time": 1091,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1091,
     "dailyMinutesDown": {
-      "2025-09-05": 1432,
+      "2025-09-06": 79,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -768,7 +768,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "26.97%",
+    "uptimeYear": "26.99%",
     "time": 850,
     "timeDay": 609,
     "timeWeek": 813,
@@ -1041,8 +1041,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -1104,18 +1103,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tamersahinoglu.com.ico",
     "slug": "tamer-sahinoglu",
     "status": "down",
-    "uptime": "73.44%",
+    "uptime": "73.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.00%",
-    "uptimeYear": "63.54%",
+    "uptimeYear": "63.52%",
     "time": 2252,
     "timeDay": 11536,
     "timeWeek": 4160,
     "timeMonth": 4487,
     "timeYear": 2632,
     "dailyMinutesDown": {
-      "2025-09-05": 1432,
+      "2025-09-06": 79,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -1433,18 +1433,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/offer.reges.com.tr.ico",
     "slug": "reges-hotel-offers-portal",
     "status": "down",
-    "uptime": "81.57%",
+    "uptime": "81.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.57%",
+    "uptimeYear": "81.56%",
     "time": 880,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2025-09-05": 1432,
+      "2025-09-06": 79,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -1812,7 +1813,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.91%",
+    "uptimeYear": "95.92%",
     "time": 1852,
     "timeDay": 774,
     "timeWeek": 968,
@@ -1881,8 +1882,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -2004,8 +2004,8 @@
     "uptime": "83.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.18%",
-    "uptimeMonth": "66.03%",
-    "uptimeYear": "87.36%",
+    "uptimeMonth": "66.23%",
+    "uptimeYear": "87.38%",
     "time": 1762,
     "timeDay": 1337,
     "timeWeek": 694,
@@ -2127,8 +2127,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -2208,18 +2207,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kirlangicconcept.com.ico",
     "slug": "kirkangic-concept",
     "status": "down",
-    "uptime": "63.41%",
+    "uptime": "63.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.41%",
+    "uptimeYear": "63.39%",
     "time": 1774,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1774,
     "dailyMinutesDown": {
-      "2025-09-05": 1432,
+      "2025-09-06": 80,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -2450,7 +2450,7 @@
     "status": "up",
     "uptime": "97.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
+    "uptimeWeek": "99.24%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "97.13%",
     "time": 1157,
