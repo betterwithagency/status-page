@@ -7,16 +7,10 @@ sites:
     url: https://bw.agency
   - name: Yula
     url: https://yulala.co
-  - name: bw/a Support
-    url: https://support.bw.agency
-  - name: bw/a Smart
-    url: https://smart.betterwith.agency
   - name: Emir Tarlan
     url: https://emirtarlan.com
   - name: Esra BULUT
     url: https://esrabulut.com.tr
-  - name: Uzman Randevu
-    url: https://uzmanrandevu.com.tr
   - name: Flamingo Psikoloji
     url: https://flamingopsikoloji.com
   - name: Samsun Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifi
@@ -25,14 +19,10 @@ sites:
     url: https://sakvinc.com.tr
   - name: Evren Mühendislik
     url: https://evrenmuh.com.tr
-  - name: Tamer Şahinoğlu
-    url: https://tamersahinoglu.com
   - name: Kirke Agency
     url: https://kirke.agency
   - name: Reges Hotel
     url: https://reges.com.tr
-  - name: Reges Hotel Offers Portal
-    url: https://offer.reges.com.tr
   - name: DavetiyeGross
     url: https://davetiyegross.com
   - name: Velime Davetiye
@@ -51,14 +41,10 @@ sites:
     url: https://samsunpsikoterapi.tr
   - name: Shine at Date
     url: https://shineatdate.com
-  - name: You Psikoloji
-    url: https://youpsikoloji.com
   - name: Zirve Psikoloji
     url: https://zirvepsikoloji.com
   - name: Kırkangıç Concept
     url: https://kirlangicconcept.com
-  - name: Vize Samsun
-    url: https://vizesamsun.com
   - name: Doris Marine
     url: https://dorisshipyard.com
   - name: SamsunPsikolog.net
@@ -77,8 +63,6 @@ sites:
     url: https://akinciyonetim.com
   - name: Antalya Terapistim Ads
     url: https://ads.antalyaterapistim.com
-  - name: Mana Psikoloji Ads
-    url: https://ads.manapsikolog.com
 
 status-website: 
   theme: dark
