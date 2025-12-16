@@ -310,8 +310,7 @@
       "2024-12-25": 56,
       "2024-12-20": 18,
       "2024-12-19": 84,
-      "2024-12-18": 2,
-      "2024-12-16": 21
+      "2024-12-18": 2
     }
   },
   {
@@ -396,11 +395,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sakvinc.com.tr.ico",
     "slug": "sak-vinc",
     "status": "up",
-    "uptime": "28.82%",
+    "uptime": "28.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "54.62%",
+    "uptimeYear": "54.64%",
     "time": 857,
     "timeDay": 708,
     "timeWeek": 738,
@@ -576,8 +575,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
-      "2024-12-17": 1440,
-      "2024-12-16": 1440
+      "2024-12-17": 1440
     }
   },
   {
@@ -721,8 +719,7 @@
       "2024-12-25": 55,
       "2024-12-20": 16,
       "2024-12-19": 85,
-      "2024-12-18": 1,
-      "2024-12-16": 20
+      "2024-12-18": 1
     }
   },
   {
@@ -787,8 +784,7 @@
       "2024-12-23": 44,
       "2024-12-20": 16,
       "2024-12-19": 85,
-      "2024-12-18": 0,
-      "2024-12-16": 19
+      "2024-12-18": 0
     }
   },
   {
@@ -797,18 +793,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/davetiyegross.com.ico",
     "slug": "davetiye-gross",
     "status": "down",
-    "uptime": "83.96%",
+    "uptime": "83.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "3.44%",
-    "uptimeYear": "83.96%",
+    "uptimeYear": "83.93%",
     "time": 4892,
     "timeDay": 144,
     "timeWeek": 123,
     "timeMonth": 186,
     "timeYear": 4892,
     "dailyMinutesDown": {
-      "2025-12-15": 1439,
+      "2025-12-16": 102,
+      "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -1007,10 +1004,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/samsuncocukgelisimi.com.ico",
     "slug": "samsun-cocuk-gelisimi",
     "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptime": "98.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.06%",
     "time": 1210,
     "timeDay": 1089,
@@ -1018,7 +1015,6 @@
     "timeMonth": 979,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2025-12-15": 9,
       "2025-11-07": 23,
       "2025-09-22": 243,
       "2025-07-20": 32,
@@ -1058,8 +1054,7 @@
       "2024-12-30": 6,
       "2024-12-29": 104,
       "2024-12-25": 54,
-      "2024-12-19": 84,
-      "2024-12-16": 18
+      "2024-12-19": 84
     }
   },
   {
@@ -1069,9 +1064,9 @@
     "slug": "ohana-psikoloji",
     "status": "up",
     "uptime": "97.26%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "97.26%",
     "time": 1229,
     "timeDay": 806,
@@ -1079,7 +1074,6 @@
     "timeMonth": 1503,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2025-12-15": 8,
       "2025-11-23": 16,
       "2025-09-22": 280,
       "2025-04-22": 281,
@@ -1162,8 +1156,7 @@
       "2024-12-30": 5,
       "2024-12-29": 104,
       "2024-12-25": 53,
-      "2024-12-19": 84,
-      "2024-12-16": 18
+      "2024-12-19": 84
     }
   },
   {
@@ -1334,8 +1327,7 @@
       "2024-12-30": 3,
       "2024-12-29": 102,
       "2024-12-25": 51,
-      "2024-12-19": 82,
-      "2024-12-16": 16
+      "2024-12-19": 82
     }
   },
   {
@@ -1344,7 +1336,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kirlangicconcept.com.ico",
     "slug": "kirkangic-concept",
     "status": "up",
-    "uptime": "64.86%",
+    "uptime": "64.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1540,8 +1532,7 @@
       "2024-12-30": 2,
       "2024-12-29": 102,
       "2024-12-25": 51,
-      "2024-12-19": 81,
-      "2024-12-16": 15
+      "2024-12-19": 81
     }
   },
   {
@@ -1677,7 +1668,7 @@
     "slug": "samsun-psikolog-org-tr",
     "status": "up",
     "uptime": "97.16%",
-    "uptimeDay": "91.57%",
+    "uptimeDay": "94.46%",
     "uptimeWeek": "98.63%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "97.16%",
@@ -1727,17 +1718,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/no7training.studio.ico",
     "slug": "no7-training-studio",
     "status": "down",
-    "uptime": "97.80%",
-    "uptimeDay": "73.05%",
-    "uptimeWeek": "96.15%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "98.35%",
+    "uptime": "97.78%",
+    "uptimeDay": "65.91%",
+    "uptimeWeek": "95.13%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.33%",
     "time": 1144,
     "timeDay": 1503,
     "timeWeek": 1000,
     "timeMonth": 960,
     "timeYear": 1129,
     "dailyMinutesDown": {
+      "2025-12-16": 103,
       "2025-12-15": 388,
       "2025-09-22": 22,
       "2025-09-15": 77,
@@ -1839,17 +1831,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/akinciyonetim.com.ico",
     "slug": "akinci-yapi-yoenetim",
     "status": "up",
-    "uptime": "79.63%",
+    "uptime": "79.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.53%",
+    "uptimeYear": "76.51%",
     "time": 983,
     "timeDay": 792,
     "timeWeek": 776,
     "timeMonth": 815,
     "timeYear": 978,
     "dailyMinutesDown": {
+      "2025-12-16": 103,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
